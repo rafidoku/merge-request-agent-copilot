@@ -1,0 +1,11 @@
+{
+  "name": "copilot-agent-team",
+  "description": "Custom Copilot agents for a full product team: PO, SA, UI/UX, FE, BE, QA, XE, Tech Ops, code reviewer, RCA",
+  "version": "1.0.0",
+  "author": { "name": "fikar46" },
+  "repository": "https://github.com/fikar46/copilot-agent-team",
+  "license": "MIT",
+  "keywords": ["agents", "copilot", "rca", "qa", "devops"],
+  "agents": ".github/agents/",
+  "skills": [".github/skills/"]
+}

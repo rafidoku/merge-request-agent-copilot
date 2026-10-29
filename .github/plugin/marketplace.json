@@ -1,0 +1,16 @@
+{
+  "name": "fikar46-agents",
+  "owner": { "name": "fikar46" },
+  "metadata": {
+    "description": "Copilot agent team: PO, SA, UI/UX, FE, BE, QA, XE, Tech Ops, reviewer, RCA",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "copilot-agent-team",
+      "description": "10 custom agents for a full product team plus the rca-method skill",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
